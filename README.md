@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![banner](https://github.com/moeiniali/moeiniali/assets/68547702/3c8e6029-51a6-4817-acc0-b45321ee9bf0)
+![banner]("https://github.com/moeiniali/moeiniali/assets/68547702/3c8e6029-51a6-4817-acc0-b45321ee9bf0") 
 
 
+
+
+
+<img src='figure/rstudio.png' width='25'>
+<img src='figure/anaconda.png' width='25'>
+<img src='figure/jupyterlab.png' width='25'>
