@@ -1,11 +1,19 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+### Hello everyone, welcome to my GitHub 👋
+- 🔭 I’m currently working on ...
+<!--
+**moeiniali/moeiniali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-</head>
-<body>
-    zdczdsdfsdf
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fcoil-kt%2Fcoil%2Fissues%2F540&psig=AOvVaw1IyYfcdgPhdvjKydyLFAyj&ust=1690140914162000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCND4x96Ho4ADFQAAAAAdAAAAABAJ
-</body>
-</html>
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+![banner](https://github.com/moeiniali/moeiniali/assets/68547702/3c8e6029-51a6-4817-acc0-b45321ee9bf0)
+
+
