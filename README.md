@@ -1,6 +1,6 @@
 ### Hello everyone, welcome to my GitHub 👋
 
-- 😄I am a front end developer from Iran.
+- 😄I am a frontEnd developer from Iran.
 
 <!--
 **moeiniali/moeiniali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
