@@ -1,7 +1,7 @@
 <!-- Profile README - Updated -->
 
 ![banner](https://github.com/moeiniali/moeiniali/assets/68547702/266292f9-782a-47e3-9a71-c9fdcbcf349d)
-
+<img align="center" src="https://github.com/moeiniali/moeiniali/assets/68547702/266292f9-782a-47e3-9a71-c9fdcbcf349d" alt="image"/>
 <h1 align="center">سلام! به گیت‌هاب من خوش اومدی 👋</h1>
 
 <p align="center">
@@ -9,10 +9,10 @@
 <b>React</b> و <b>Next.js</b> تمرکز دارم و عاشق پیاده‌سازی کامپوننت‌های قابل‌استفاده‌مجدد و UX روان هستم.
 </p>
 
-<p align="center">
-  <a href="mailto:ali.moeini.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ali.moeini.dev%40gmail.com-informational?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/ali-moeini" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ali--moeini-blue?style=flat&logo=linkedin"></a>
-  <a href="https://moeiniali.github.io" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0e7490?style=flat&logo=vercel"></a>
+<p align="center" display="flex" gap="16px">
+  <a href="mailto:a.moeini101@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ali.moeini.dev%40gmail.com-informational?style=flat&logo=gmail"></a>
+  <a href="www.linkedin.com/in/ali-moeini75" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ali--moeini-blue?style=flat&logo=linkedin"></a>
+  <a href="https://alimoeini.liara.run" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0e7490?style=flat&logo=vercel"></a>
 </p>
 
 ---
