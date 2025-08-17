@@ -42,7 +42,7 @@
   <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36"/>&nbsp;
   <img title="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36"/>&nbsp;
   <!-- UI Kits -->
-  <img title="Tailwind CSS" src="https://cdn.jsdelivr.net/npm/tailwindcss-svg-icon-color@1.0.8/index.min.js)" width="36" height="36"/>&nbsp;
+<img title="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36" height="36" alt="Tailwind CSS Logo"/>&nbsp;
   <img title="Material UI (MUI)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="36" height="36"/>&nbsp;
   <img title="Ant Design" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" width="36" height="36"/>&nbsp;
   <img title="shadcn/ui" src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="24"/>&nbsp;
