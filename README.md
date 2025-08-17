@@ -1,12 +1,10 @@
 <!-- Profile README - Updated -->
 <h1 align="center">سلام! به گیت‌هاب من خوش اومدی 👋</h1>
----
-
----
 
 
 <img align="center" src="https://github.com/moeiniali/moeiniali/assets/68547702/266292f9-782a-47e3-9a71-c9fdcbcf349d" alt="image"/>
----
+
+
 
 <p align="center">
 من <b>علی معینی</b> هستم؛ توسعه‌دهنده <b>Front-End</b>. روی ساخت رابط‌های کاربری سریع، تمیز و مقیاس‌پذیر با
@@ -14,18 +12,21 @@
 </p>
 
 <p align="center" display="flex" gap="16px">
-  <a href="mailto:a.moeini101@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ali.moeini.dev%40gmail.com-informational?style=flat&logo=gmail"></a>
+  <a href="mailto:a.moeini101@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-a.moeini101%40gmail.com-informational?style=flat&logo=gmail"></a>
   <a href="www.linkedin.com/in/ali-moeini75" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ali--moeini-blue?style=flat&logo=linkedin"></a>
   <a href="https://alimoeini.liara.run" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0e7490?style=flat&logo=vercel"></a>
 </p>
 
 ---
+<div align="right">
 
 ## ✨ درباره من
-- 👨‍💻 Front-End Developer (React/Next.js)
-- 📍 ایران
-- 🔎 علاقمند به: UI سیستم‌ها، طراحی سیستماتیک، بهینه‌سازی عملکرد، SEO فرانت‌اند
-- 📚 درحال یادگیری عمیق‌تر: TypeScript پیشرفته، طراحی معماری کامپوننت‌ها، تست فرانت‌اند
+- 👨‍💻 Front-End Developer (React/Next.js)  
+- 📍 ایران  
+- 🔎 علاقمند به: UI سیستم‌ها، طراحی سیستماتیک، بهینه‌سازی عملکرد، SEO فرانت‌اند  
+- 📚 درحال یادگیری عمیق‌تر: TypeScript پیشرفته، طراحی معماری کامپوننت‌ها، تست فرانت‌اند  
+
+</div>
 
 ---
 
