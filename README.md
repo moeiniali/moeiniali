@@ -6,12 +6,18 @@
 <p align="center">
   <img src="https://github.com/moeiniali/moeiniali/assets/68547702/266292f9-782a-47e3-9a71-c9fdcbcf349d" alt="image"/>
 </p>
+
+
 ---
+
+
 
 <p align="center">
 من <b>علی معینی</b> هستم؛ توسعه‌دهنده <b>Front-End</b>. روی ساخت رابط‌های کاربری سریع، تمیز و مقیاس‌پذیر با
 <b>React</b> و <b>Next.js</b> تمرکز دارم و عاشق پیاده‌سازی کامپوننت‌های قابل‌استفاده‌مجدد و UX روان هستم.
 </p>
+
+---
 
 <p align="center" display="flex" gap="16px">
   <a href="mailto:a.moeini101@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-a.moeini101%40gmail.com-informational?style=flat&logo=gmail"></a>
@@ -35,13 +41,6 @@
   - درک کامل و کاربردی از **Next.js** (SSR, SSG, ISR) برای ساخت اپلیکیشن‌های مقیاس‌پذیر  
   - ارتقای مهارت در **TypeScript** برای کدنویسی امن‌تر، خواناتر و مقیاس‌پذیرتر  
 
-
-- 
-- در طراحی و توسعه وب برای ساخت وبسایت های بهینه ، مدرن و تعاملی با  AI و استافاده از هوش مصنوعی
-- یادگیری اصول و تکنیک های SEO برای بهبود رتبه و عملکرد سایت ها در موتور های جستجو
-- یادگیری عمیق تر React js  و الگو های پیشرفته در معماری کامپوننت ها
-- درک کامل و کاربردی از  Next js  برای ساخت اپلیکیشن های مقیاس پذیر(ISR,SSG,SSR)
-- ارتقاء مهارت در  Typescript  برای کدنویسی امن تر، خواناتر و مقیاس پذیرتر
 
 </div>
 
