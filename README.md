@@ -66,17 +66,24 @@
 
 ---
 
+## 📊 آمار گیت‌هاب من
 
-## 📈 آمار گیت‌هاب
-
-<p align="left">
-  <img alt="GitHub Stats" height="160" src="https://github-readme-stats.vercel.app/api?username=moeiniali&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" />
-  <img alt="Top Langs" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeiniali&layout=compact&langs_count=8" />
+<p align="center">
+  <!-- کارت اصلی -->
+  <img src="https://github-readme-stats.vercel.app/api?username=moeiniali&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+  
+  <!-- زبان‌های برتر -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeiniali&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180" alt="Top Languages"/>
 </p>
 
-<!-- streak (optional) -->
-<p align="left">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=moeiniali" />
+<p align="center">
+  <!-- streak -->
+  <img src="https://streak-stats.demolab.com?user=moeiniali&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <!-- خلاصه کارت پروفایل -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moeiniali&theme=radical" alt="Profile Summary"/>
 </p>
 
 ---
