@@ -20,7 +20,7 @@
 </p>
 
 ---
-<p dir="rtl" align="right">
+<div dir="rtl" align="right">
 
 ## ✨ درباره من
 - 👨‍💻 Front-End Developer (React/Next.js)  
@@ -30,7 +30,7 @@
 - 📚 درحال یادگیری عمیق‌تر:
 - TypeScript پیشرفته، طراحی معماری کامپوننت‌ها، تست فرانت‌اند
 
-</p>
+</div>
 
 ---
 
