@@ -3,8 +3,9 @@
 
 ---
 
-<img align="center" src="https://github.com/moeiniali/moeiniali/assets/68547702/266292f9-782a-47e3-9a71-c9fdcbcf349d" alt="image"/>
-
+<p align="center">
+  <img src="https://github.com/moeiniali/moeiniali/assets/68547702/266292f9-782a-47e3-9a71-c9fdcbcf349d" alt="image"/>
+</p>
 ---
 
 <p align="center">
@@ -20,6 +21,7 @@
 
 ---
 <div dir="rtl" align="right">
+<p align="right">
 
 ## ✨ درباره من
 - 👨‍💻 Front-End Developer (React/Next.js)  
@@ -27,13 +29,15 @@
 - 🔎 علاقمند به: UI سیستم‌ها، طراحی سیستماتیک، بهینه‌سازی عملکرد، SEO فرانت‌اند  
 - 📚 درحال یادگیری عمیق‌تر: TypeScript پیشرفته، طراحی معماری کامپوننت‌ها، تست فرانت‌اند  
 
+  
+</p>
 </div>
 
 ---
 
 ## 🧰 تکنولوژی‌ها و ابزارها
 
-<p align="left">
+<p align="center">
   <!-- Core -->
   <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36"/>&nbsp;
   <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36"/>&nbsp;
