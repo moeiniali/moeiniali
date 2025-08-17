@@ -1,7 +1,12 @@
 <!-- Profile README - Updated -->
+<h1 align="center">سلام! به گیت‌هاب من خوش اومدی 👋</h1>
+---
+
+---
+
 
 <img align="center" src="https://github.com/moeiniali/moeiniali/assets/68547702/266292f9-782a-47e3-9a71-c9fdcbcf349d" alt="image"/>
-<h1 align="center">سلام! به گیت‌هاب من خوش اومدی 👋</h1>
+---
 
 <p align="center">
 من <b>علی معینی</b> هستم؛ توسعه‌دهنده <b>Front-End</b>. روی ساخت رابط‌های کاربری سریع، تمیز و مقیاس‌پذیر با
@@ -35,7 +40,7 @@
   <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36"/>&nbsp;
   <img title="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36"/>&nbsp;
   <!-- UI Kits -->
-  <img title="Tailwind CSS" src="[cdn.jsdelivr.net](https://cdn.jsdelivr.net/npm/tailwindcss-svg-icon-color@1.0.8/index.min.js)" width="36" height="36"/>&nbsp;
+  <img title="Tailwind CSS" src="https://cdn.jsdelivr.net/npm/tailwindcss-svg-icon-color@1.0.8/index.min.js)" width="36" height="36"/>&nbsp;
   <img title="Material UI (MUI)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="36" height="36"/>&nbsp;
   <img title="Ant Design" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" width="36" height="36"/>&nbsp;
   <img title="shadcn/ui" src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="24"/>&nbsp;
